@@ -6,12 +6,12 @@
 		},
 		{"tag": "quem_e_luna",
 		 "patterns": ["quem e voce?", "quem e voce?", "quem e voce", "luna, quem e voce"],
-		 "responses": ["Sou o chatbot da 2IM"],
+		 "responses": ["Sou a Luna, um ChatBot."],
 		 "context_set": ""
 		},
 		{"tag": "o_que_a_luna_faz",
 		 "patterns": ["o que voce faz?", "o que voce faz"],
-		 "responses": ["Ajudo a tirar duvidas quanto a 2IM e seus produtos"],
+		 "responses": ["Por enquanto nao faco nada. Mas voce pode me treinar para que eu aprenda a fazer"],
 		 "context_set": ""
 		},
 		{"tag": "adeus",
