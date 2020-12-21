@@ -1,5 +1,5 @@
 # ChatBot-NLTK
-This is the ChatBot created using NLTK and Neural Network
+This is the ChatBot created using NLTK and Neural Network, her name is Luna
 
 I made this ChatBot based in a YouTube tutorial "Tech With Tim". You can access his chanel in this link "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg".
 
