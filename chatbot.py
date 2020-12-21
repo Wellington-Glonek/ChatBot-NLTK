@@ -1,10 +1,10 @@
 # Importar pacotes necessários
 import nltk
-#nltk.download('punkt')
+nltk.download('punkt')
 #from nltk.stem.lancaster import LancasterStemmer
 from tensorflow.python.framework import ops
 # stemmer = LancasterStemmer()
-# nltk.download('rslp')
+nltk.download('rslp')
 # Biblioteca para realizar stemizaçao das palavras
 stemmer = nltk.stem.RSLPStemmer()
 
@@ -13,9 +13,6 @@ nltk.download('stopwords')
 stopwords = nltk.corpus.stopwords.words('portuguese')
 
 # from sklearn.feature_extraction.text import TfidfVectorizer
-
-# Biblioteca para retirar acentuaçã
-import unidecode
 
 from datetime import datetime
 now = datetime.now()
