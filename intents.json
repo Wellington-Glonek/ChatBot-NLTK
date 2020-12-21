@@ -1,0 +1,38 @@
+{"intents": [
+		{"tag": "ola",
+		 "patterns": ["ola", "oi", "ola", "e ai", "opa", "bom dia", "boa tarde", "boa noite"],
+		 "responses": ["Ola, como posso ajudar?", "Oi, como posso ajudar", "Como posso te ajudar?"],
+		 "context_set": ""
+		},
+		{"tag": "quem_e_luna",
+		 "patterns": ["quem e voce?", "quem e voce?", "quem e voce", "luna, quem e voce"],
+		 "responses": ["Sou o chatbot da 2IM"],
+		 "context_set": ""
+		},
+		{"tag": "o_que_a_luna_faz",
+		 "patterns": ["o que voce faz?", "o que voce faz"],
+		 "responses": ["Ajudo a tirar duvidas quanto a 2IM e seus produtos"],
+		 "context_set": ""
+		},
+		{"tag": "adeus",
+		 "patterns": ["adeus", "ate mais ver", "ate logo", "tchau"],
+		 "responses": ["Ate mais. Para fechar a conversa, digite Adeus"],
+		 "context_set": ""
+		},
+		{"tag": "como_esta",
+		 "patterns": ["ola, como voce esta?","oi, tudo bom?","como voce esta?", "tudo bem?", "tudo bom?", "como voce se sente?"],
+		 "responses": ["Eu estou bem, obrigada. Como posso te ajudar?", "Tudo bem. Como posso te ajudar?", "Tudo certo, posso te ajudar em alguma coisa?"],
+		 "context_set": ""
+		},
+		{"tag": "obrigado",
+		 "patterns": ["obrigado", "muito obrigado","obrigada", "muito obrigada", "agradeco", "obrigado Luna", "obrigada Luna", "muito obrigado Luna", "muito obrigada Luna", "valeu"],
+		 "responses": ["Por nada, espero ter ajudado", "Foi um prazer", "Sem problemas"],
+		 "context_set": ""
+		},
+		{"tag": "ajudou",
+		 "patterns": ["ajudou sim", "sim, foi de grande ajuda", "ajudou", "sim, ajudou"],
+		 "responses": ["Fico feliz em ter ajudado ;)"],
+		 "context_set": ""
+		}
+   ]
+}
